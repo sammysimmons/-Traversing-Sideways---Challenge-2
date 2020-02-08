@@ -21,7 +21,7 @@ $(document).ready(function() {
     });
 
 
-
+    // highlights image background on click to pink
     $(".card").click(function() {
         $(this).toggleClass("highlight");
     });
